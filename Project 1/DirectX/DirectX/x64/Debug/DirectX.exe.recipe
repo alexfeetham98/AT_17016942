@@ -2,48 +2,48 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\x64\Debug\DirectX.exe</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\x64\Debug\DirectX.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\BlendedPhongPS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\BlendedPhongPS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\BlendedPhongVS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\BlendedPhongVS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\ColourBlendPS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\ColourBlendPS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\ColourBlendVS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\ColourBlendVS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\IndexedPhongPS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\IndexedPhongPS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\PhongPS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\PhongPS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\PhongVS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\PhongVS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\SolidPS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\SolidPS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\SolidVS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\SolidVS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TexturedPhongPS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\TexturedPhongPS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TexturedPhongVS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\TexturedPhongVS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TexturePS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\TexturePS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TextureVS.cso</FullPath>
+      <FullPath>C:\Users\alexf\Documents\BSc Games Technology\AT\AT_17016942\Project 1\DirectX\DirectX\TextureVS.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />

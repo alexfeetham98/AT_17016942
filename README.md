@@ -7,6 +7,7 @@ I was unable to create a working executeable file for this task.
 Please go to: \AT_17016942\Project 1\DirectX
 Open DirectX.sln using Visual Studio 2019.
 Once the project loads, run the Local Windows Debugger and the Prototype should run.
+It may give an error but when tested after a fresh clone of the repository it did run.
 The report can be found at \AT_17016942\Project 1\AT Task1 Report - Alex Feetham 17016942.pdf
 
 
