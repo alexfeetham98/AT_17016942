@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water3
+  m_Shader: {fileID: -6465566751694194690, guid: 4b0a5ef329efaa34aa2e60168bddb38b,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Displacement:
+        m_Texture: {fileID: 2800000, guid: 3c16570106cb7d647b4f05d741153ca5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 7bc9b26e1b12f3d4f9a10736134b9227, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_77533420_Cube_1:
+        m_Texture: {fileID: 8900000, guid: 696e82a7bbf428d40bfe704f7f909dff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _DepthDistance: 0.65
+    - _DepthStrength: 0.25
+    - _DisplacementStrength: 0.75
+    - _FersnelPower: 1
+    - _FoamAmount: 1
+    - _FoamCutoff: 1
+    - _FoamDistance: 0.33
+    - _FoamScale: 100
+    - _FoamSpeed: 1
+    - _FoamStrength: 0.1
+    - _Fresnel: 1
+    - _IOR: 0
+    - _NormalStrength: 1
+    - _NormalTiling: 15
+    - _PanSpeed: 0.1
+    - _RefractStrength: 0.15
+    m_Colors:
+    - _DeepColour: {r: 0.20392159, g: 0.72156864, b: 0.79215693, a: 1}
+    - _FoamColour: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
+    - _ShallowColour: {r: 0, g: 0.8933511, b: 1, a: 1}
