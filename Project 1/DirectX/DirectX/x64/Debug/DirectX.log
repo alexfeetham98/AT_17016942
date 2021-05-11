@@ -1,0 +1,54 @@
+﻿  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\BlendedPhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\BlendedPhongVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\ColourBlendPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\ColourBlendVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\IndexedPhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\PhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\PhongVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\SolidPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\SolidVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TexturedPhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TexturedPhongVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TexturePS.cso
+  compilation object save succeeded; see C:\Users\alexf\Desktop\Project 1\DirectX\DirectX\TextureVS.cso
+  App.cpp
+  Bindable.cpp
+  Box.cpp
+  Camera.cpp
+  Cylinder.cpp
+  Drawable.cpp
+  dxerr.cpp
+  DxgiInfoManager.cpp
+  GDIPlusManager.cpp
+  Graphics.cpp
+  ImguiManager.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  IndexBuffer.cpp
+  InputLayout.cpp
+  Keyboard.cpp
+  Melon.cpp
+  Mouse.cpp
+  PixelShader.cpp
+  PointLight.cpp
+  Pyramid.cpp
+  Sampler.cpp
+  Sheet.cpp
+  SkinnedBox.cpp
+  SolidSphere.cpp
+  Surface.cpp
+  Texture.cpp
+  Timer.cpp
+  Topology.cpp
+  TransformCbuf.cpp
+  VertexBuffer.cpp
+  VertexShader.cpp
+  Window.cpp
+  WindowsMessageMap.cpp
+  WinExecption.cpp
+  WinMain.cpp
+  DirectX.vcxproj -> C:\Users\alexf\Desktop\Project 1\DirectX\x64\Debug\DirectX.exe

@@ -1,0 +1,57 @@
+﻿  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\BlendedPhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\BlendedPhongVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\ColourBlendPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\ColourBlendVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\IndexedPhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\PhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\PhongVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\SolidPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\SolidVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\TexturedPhongPS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\TexturedPhongVS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\TexturePS.cso
+  compilation object save succeeded; see C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\TextureVS.cso
+  App.cpp
+  Bindable.cpp
+  Box.cpp
+  Camera.cpp
+  Cylinder.cpp
+  Drawable.cpp
+  dxerr.cpp
+  DxgiInfoManager.cpp
+  GDIPlusManager.cpp
+  Graphics.cpp
+  ImguiManager.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  IndexBuffer.cpp
+  InputLayout.cpp
+  Keyboard.cpp
+  Melon.cpp
+  Mouse.cpp
+  PixelShader.cpp
+  PointLight.cpp
+  Pyramid.cpp
+C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\Bindable.cpp(18,13): error C2039: 'logic_error': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\random(27): message : see declaration of 'std'
+C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\Bindable.cpp(18,24): error C3861: 'logic_error': identifier not found
+  Sampler.cpp
+  Sheet.cpp
+  SkinnedBox.cpp
+  SolidSphere.cpp
+C:\Users\alexf\Documents\BSc Games Technology\AT\Direct-3D-Platformer\DirectX\DirectX\Graphics.cpp(132,2): error C2065: 'infoManager': undeclared identifier
+  Surface.cpp
+  Texture.cpp
+  Timer.cpp
+  Topology.cpp
+  TransformCbuf.cpp
+  VertexBuffer.cpp
+  VertexShader.cpp
+  Window.cpp
+  WindowsMessageMap.cpp
+  WinExecption.cpp
+  WinMain.cpp
