@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snow
+  m_Shader: {fileID: -6465566751694194690, guid: 35aa403258b682149a7fceb3d590ee3c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainNormal:
+        m_Texture: {fileID: 2800000, guid: 018ff50f226802b41ba1fe4e14f9d831, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 3969a068a7800aa4ea0b90e7da7c5a57, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3ABAA676_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7862c6a7adea56e44949c5039b1a8f5e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TrailMap:
+        m_Texture: {fileID: 8400000, guid: 5c6116339b09b9b498cf6a9e33d04680, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TrailNormal:
+        m_Texture: {fileID: 2800000, guid: 018ff50f226802b41ba1fe4e14f9d831, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TrailTexture:
+        m_Texture: {fileID: 2800000, guid: 3969a068a7800aa4ea0b90e7da7c5a57, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _HeightMultiplier: 5
+    - _SnowGloss: 1.44
+    - _TextureTiling: 1
+    - _TrailBlendingCap: 1
+    - _TrailGloss: 0.61
+    - _TrailRadius: 1
+    - _TrailTiling: 1
+    m_Colors:
+    - _SnowColour: {r: 1, g: 1, b: 1, a: 1}
+    - _TrailColour: {r: 0.91764706, g: 0.9473373, b: 0.972549, a: 1}
